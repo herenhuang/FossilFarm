@@ -2815,7 +2815,7 @@ iframe {
 	}
 
 	#header {
-		background: black;
+		background: #fff;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -3314,7 +3314,7 @@ iframe {
 		display: none;
 	}
 
-	@media screen and (max-width: 1240px) {
+	@media screen and (max-width: 840px) {
 
 		/* Basic */
 
