@@ -2192,7 +2192,7 @@
 		margin: 0 0 2em 0;
 		padding: 3em;
         display: flex;
-        flex-flow: row wrap;
+        flex-flow: column wrap;
 	}
 
 	.epi_box {
@@ -2204,12 +2204,6 @@
         display: flex;
         flex-flow: column wrap;
 	}
-
-.right_col {
-    display: flex; 
-    flex-flow: column wrap;
-}
-
     
 iframe {
     align-self: center;
@@ -3370,8 +3364,6 @@ iframe {
 						margin-bottom: -3em;
 						margin-top: 3em;
 					}
-        
-
 
 		/* Header */
 
