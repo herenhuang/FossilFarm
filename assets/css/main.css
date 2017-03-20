@@ -2220,13 +2220,10 @@
     display: flex;
     flex-flow: column wrap;
     align-items: center;
-    margin-left: 70px;
+    margin-left: 20px;
 }
 
-.left {
-    
-    padding-left: 70px;
-}
+
 
 
 iframe {
