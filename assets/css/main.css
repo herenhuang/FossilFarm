@@ -2213,11 +2213,14 @@
 		padding: 3em;
         display: flex;
         flex-flow: row wrap;
+    align-items: center;
 }
 
 .right {
     display: flex;
     flex-flow: column wrap;
+    align-items: center;
+    margin-left: 70px;
 }
 
 
