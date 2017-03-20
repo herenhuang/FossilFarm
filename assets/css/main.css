@@ -2877,7 +2877,7 @@ iframe {
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #fff;
+						color: black;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
